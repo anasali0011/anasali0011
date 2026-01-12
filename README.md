@@ -10,7 +10,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasali0011)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k22.it.2212063@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=anasali0011&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 

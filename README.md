@@ -180,16 +180,6 @@ const anasAli = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anasali0011&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
@@ -204,8 +194,3 @@ const anasAli = {
 
 ---
 
-⭐ **If you find my work interesting, feel free to explore my repositories and leave a star!** ⭐
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>

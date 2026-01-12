@@ -111,12 +111,7 @@ I enjoy building scalable web applications and intelligent systems that solve re
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasali0011&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasali0011&theme=tokyonight" width="48%"/>
-</p>
 
 ---
 

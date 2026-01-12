@@ -21,7 +21,7 @@
 ```javascript
 const anasAli = {
     education: "B.Tech Information Technology (2022-2026)",
-    location: "Kanpur, Uttar Pradesh 📍",
+    location: "India",
     currentFocus: ["Full Stack Development", "AI/ML", "DSA"],
     achievements: {
         problemsSolved: "250+",

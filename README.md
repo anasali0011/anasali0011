@@ -25,7 +25,7 @@ const anasAli = {
     currentFocus: ["Full Stack Development", "AI/ML", "DSA"],
     achievements: {
         problemsSolved: "250+",
-        hackathons: ["Adobe India Hackathon 2025"],
+        hackathons: ["Adobe India Hackathon Participant 2025"],
         certifications: 5
     },
     openTo: ["Internships", "Collaborations", "Entry-level Opportunities"],
